@@ -1,5 +1,7 @@
 # Weather and Vacation Analysis
 
+![Vacation](https://github.com/AnushDeCosta/Python-WeatherVacation-Api/assets/67308030/c85cd4b0-a968-4793-899a-f03015517f46)
+
 ## Introduction
 This project aims to explore the relationship between geographical latitude and weather variables, providing insights for future vacation planning. The analysis revolves around two main elements:
 - Investigating Relationships
