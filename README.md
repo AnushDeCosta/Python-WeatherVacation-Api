@@ -2,6 +2,9 @@
 
 ![Vacation](https://github.com/AnushDeCosta/Python-WeatherVacation-Api/assets/67308030/c85cd4b0-a968-4793-899a-f03015517f46)
 
+## Summary
+The Weather and Vacation Analysis project aims to explore the relationship between geographical latitude and weather variables to provide insights for future vacation planning. The analysis includes investigating relationships between weather variables and latitude, as well as guiding vacation choices based on specific weather conditions.
+
 ## Introduction
 This project aims to explore the relationship between geographical latitude and weather variables, providing insights for future vacation planning. The analysis revolves around two main elements:
 - Investigating Relationships
@@ -12,6 +15,22 @@ To kick off the project, we explore the correlation between weather variables an
 
 ### WeatherPy
 WeatherPy focuses on scatter plot creation, demonstrating the relationship between diverse weather variables and latitude. Interestingly, temperature exhibits a trend of increasing as we approach the equator, with the Northern Hemisphere presenting a higher level of variability. Both humidity and cloudiness do not show a clear correlation with latitude. For a more detailed investigation, we also apply linear regression on these relationships, categorizing the data into the Northern and Southern Hemispheres.
+
+- Latitude vs Temperature 
+
+    ![Temperature Iamge](./WeatherPy/output_data/Fig1.png)
+
+- Latitude vs Humidity
+
+    ![Humidity Iamge](./WeatherPy/output_data/Fig2.png)
+
+- Latitude vs Cloudiness
+
+    ![Cloudiness Iamge](./WeatherPy/output_data/Fig3.png)
+
+- Latitude vs Wind Speed
+
+    ![Wind Iamge](./WeatherPy/output_data/Fig4.png)
 
 ## Guiding Vacation Choices
 ### VacationPy
